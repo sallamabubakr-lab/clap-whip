@@ -1,0 +1,5 @@
+{
+  "name": "clap-whip",
+  "owner": { "name": "sallamabubakr-lab" },
+  "plugins": [{ "name": "clap-whip", "source": "./" }]
+}

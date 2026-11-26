@@ -1,0 +1,9 @@
+{
+  "name": "clap-whip",
+  "version": "1.0.0",
+  "description": "Clap, and a pixel taskmaster cracks a whip at the Claude character above your prompt. CRACK! OKAY OKAY OKAY.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "sallamabubakr-lab"
+  }
+}

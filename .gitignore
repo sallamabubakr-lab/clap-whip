@@ -1,0 +1,5 @@
+# Old location of the clap listener, kept on the author's Mac for sessions started before it moved.
+bin/
+.claude-plugin/types/
+.DS_Store
+*.log
